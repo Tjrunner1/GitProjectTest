@@ -6,5 +6,10 @@ public class Main {
 	    System.out.println("Uhhhh hello");
         System.out.println("qwerty");
         System.out.println("Git Rocks!");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
+
     }
 }
